@@ -1,0 +1,52 @@
+{
+  "eslint.validate": ["javascript", "javascriptreact", "typescript", "vue"],
+
+  "vetur.experimental.templateInterpolationService": false,
+  "editor.renderWhitespace": "all",
+  "editor.tabSize": 2,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.cursorSurroundingLinesStyle": "all",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "editor.guides.bracketPairs": true,
+  "editor.quickSuggestions": {
+    "strings": true,
+    "other": true
+  },
+  "editor.showDeprecated": true,
+  "editor.suggest.preview": true,
+  "editor.suggestSelection": "recentlyUsedByPrefix",
+  "editor.tabCompletion": "on",
+  "github.copilot.advanced": {
+    "debug.enableRefactor": true
+  },
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": true,
+    "plaintext": true,
+    "markdown": true,
+    "typescript": true,
+    "javascript": true
+  },
+  "gitlens.views.repositories.files.layout": "tree",
+  "gitlens.codeLens.scopes": ["document", "containers", "blocks"],
+  "prettier.singleQuote": false,
+  "prettier.tabWidth": 2,
+  "prettier.trailingComma": "all",
+  "prettier.useTabs": false,
+  "files.exclude": {
+    "node_modules": true,
+    ".quasar": true,
+    ".vscode": true,
+    "babel.config.js": true,
+    ".eslintignore": true,
+    ".eslintrc.js": true,
+    "package-lock.json": true,
+    ".editorconfig": true,
+    ".postcssrc.js": true,
+    ".prettierrc": true,
+    "package.json": true,
+    "tsconfig.json": true
+  }
+}

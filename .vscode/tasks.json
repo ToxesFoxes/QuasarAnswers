@@ -1,0 +1,34 @@
+{
+  // See https://go.microsoft.com/fwlink/?LinkId=733558
+  // for the documentation about the tasks.json format
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "group": { "kind": "test", "isDefault": true },
+      "label": "Quasar Run",
+      "type": "shell",
+      "command": "quasar dev"
+    },
+    {
+      "group": { "kind": "build", "isDefault": true },
+      "label": "Quasar Build",
+      "type": "shell",
+      "command": "quasar build"
+    },
+    {
+      "label": "ES Lint",
+      "type": "shell",
+      "command": "npm run lint"
+    },
+    {
+      "label": "Quasar upgrade",
+      "type": "shell",
+      "command": "quasar upgrade --install"
+    },
+    {
+      "label": "Quasar cli update",
+      "type": "shell",
+      "command": "npm i @quasar/cli"
+    }
+  ]
+}

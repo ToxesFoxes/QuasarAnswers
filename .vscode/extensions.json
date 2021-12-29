@@ -1,0 +1,22 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "octref.vetur",
+    "usernamehw.errorlens",
+    "spmeesseman.vscode-taskexplorer",
+    "abdelaziz18003.quasar-snippets",
+    "devine-davies.make-hidden",
+    "ypresto.vscode-intelli-refactor",
+    "michelemelluso.gitignore",
+    "formulahendry.auto-rename-tag",
+    "github.copilot",
+    "gruntfuggly.todo-tree",
+    "ms-edgedevtools.vscode-edge-devtools"
+  ],
+  "unwantedRecommendations": [
+    "hookyqr.beautify",
+    "dbaeumer.jshint",
+    "ms-vscode.vscode-typescript-tslint-plugin"
+  ]
+}
