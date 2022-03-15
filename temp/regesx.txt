@@ -1,0 +1,1 @@
+{\n\t"title": "$1",\n\t"answers": [\n\t\t\t{\n\t\t\t\t"text": "$2",\n\t\t\t\t"valid": false},\n\t\t\t{\n\t\t\t\t"text": "$3",\n\t\t\t\t"valid": false},\n\t\t\t{\n\t\t\t\t"text": "$4",\n\t\t\t\t"valid": false},\n\t\t\t{\n\t\t\t\t"text": "$5",\n\t\t\t\t"valid": false}\n\t\t]\n},
