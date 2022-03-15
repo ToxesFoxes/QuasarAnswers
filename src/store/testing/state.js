@@ -6,4 +6,4 @@ export default {
     index: 0,
   },
   results: {},
-};
+}

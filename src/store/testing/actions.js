@@ -2,10 +2,9 @@ export function enterQuiz(store, data) {
   store.commit("setSelected", true);
   store.commit("setQuiz", data);
   console.log(store);
-  if (getters.currentQuizId !== data.id) {
-    store.commit("setQuestionIndex", 0);
-    store.commit("resetResults", data.id);
-  }
+  console.log(data);
+  store.commit("setQuestionIndex", 0);
+  store.commit("resetResults", data.id);
   store.commit("setQuestion", 0);
   // console.log(store.getters.currentQuizId, data.id);
 }

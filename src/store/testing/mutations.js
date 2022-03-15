@@ -29,6 +29,7 @@ export function answerQuestion(state, data) {
 
 // Results
 export function resetResults(state, data) {
+  console.log(data)
   state.results[data] = {
     total: {
       valid: 0,
@@ -39,5 +40,7 @@ export function resetResults(state, data) {
 }
 
 export function recordAnswer(state, data) {
-  state.results[data.quizId].answered[data.questionId] = data.answer;
+  console.log(state)
+  console.log(data)
+  state.results[data.quizId].answered[data.questionIndex] = data.answer;
 }

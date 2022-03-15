@@ -22,7 +22,7 @@ export default store(function (/* { ssrContext } */) {
       answers,
       global: GlobalData,
       // example,
-      // testing
+      testing,
     },
     plugins: [createPersistedState()],
     // enable strict mode (adds overhead!)

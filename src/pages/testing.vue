@@ -24,7 +24,7 @@ export default {
     ...mapGetters({
       // data: "example/getCurrentQuiz"c,
       cards: "global/routerPages",
-      quizList: "example/getFullQuizList",
+      quizList: "answers/getFullQuizList",
       // title: "example/getCurrentQuizName",
       // count: "example/getCurrentQuizQuestionCount",
       item: "testing/question",
