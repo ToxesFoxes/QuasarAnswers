@@ -2,6 +2,7 @@ import { store } from 'quasar/wrappers'
 import { createStore } from 'vuex'
 import createPersistedState from "vuex-persistedstate";
 
+import answers from './answers'
 import example from './module-example'
 import GlobalData from './global'
 import testing from './testing'
@@ -18,9 +19,10 @@ import testing from './testing'
 export default store(function (/* { ssrContext } */) {
   const Store = createStore({
     modules: {
-      example,
+      answers,
       global: GlobalData,
-      testing
+      // example,
+      // testing
     },
     plugins: [createPersistedState()],
     // enable strict mode (adds overhead!)

@@ -6,7 +6,7 @@
         <q-item
           clickable
           v-close-popup
-          v-for="(link, index) in quizList"
+          v-for="(link, index) in tests"
           @click="changeQuiz(index)"
           :key="index"
         >
@@ -22,7 +22,8 @@
     <question-card
       :version="'2.0'"
       :question="item"
-      v-for="(item, index) in data.quiz"
+      :id="index"
+      v-for="(item, index) in data.json"
       :key="index"
     ></question-card>
     <floating-search></floating-search>
@@ -43,10 +44,10 @@ export default {
   },
   computed: {
     ...mapGetters({
-      data: "example/getCurrentQuiz",
-      quizList: "example/getQuizList",
-      title: "example/getCurrentQuizName",
-      count: "example/getCurrentQuizQuestionCount",
+      data: "answers/getCurrentQuiz",
+      tests: "answers/getQuizList",
+      title: "answers/getCurrentQuizName",
+      count: "answers/getCurrentQuizQuestionCount",
     }),
   },
   methods: {
@@ -58,7 +59,7 @@ export default {
       findString(value || this.text_search);
     },
     changeQuiz(index) {
-      this.$store.commit("example/setCurrentQuiz", index);
+      this.$store.commit("answers/setCurrentQuiz", index);
     },
   },
   data: () => ({

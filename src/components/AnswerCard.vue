@@ -11,7 +11,7 @@
         :value="`answer_${index}`"
         :checked="item.valid"
         :disabled="!item.valid"
-        :name="`quiz_${question.id}_${index}`"
+        :name="`quiz_${id}_${index}`"
       />
       <span>{{ item.text }}</span>
     </label>
@@ -25,15 +25,16 @@ export default {
       type: Object,
       required: true,
     },
+    id: {
+      type: Number,
+      required: true,
+    },
     version: {
       type: String,
       required: true,
     },
   },
   computed: {
-    question_id() {
-      return this.question.id;
-    },
     question_text() {
       switch (this.version) {
         case "2.0":
