@@ -1,29 +1,54 @@
 <template>
-  <q-page class="flex items-center column q-ma-md q-mb-xl">
-    <question-card
-      :version="'2.0'"
-      :question="item"
-      v-for="(item, index) in data.quiz"
-      :key="index"
-    ></question-card>
-    <floating-search></floating-search>
+  <q-page padding>
+    <div class="q-pa-md justify-center row q-gutter-md">
+      <q-card
+        flat
+        bordered
+        class="my-card q-pa-none column"
+        v-for="(card, index) in cards"
+        :key="index"
+      >
+        <q-card-section class="q-pb-sm">
+          <div class="text-h6">{{ card.title }}</div>
+          <div class="text-subtitle2">От {{ card.author }}</div>
+        </q-card-section>
+
+        <q-card-section class="q-pt-none">
+          {{ card.description }}
+        </q-card-section>
+
+        <q-card-section class="q-pa-none q-mt-auto relative-position">
+          <q-separator class="q-pb-auto" />
+          <q-btn
+            flat
+            color="primary"
+            class="q-ma-none start-btn vertical-bottom"
+            :label="card.btnCaption"
+            :to="card.link"
+          />
+        </q-card-section>
+      </q-card>
+    </div>
   </q-page>
 </template>
 
 <script>
-import QuestionCard from "src/components/QuestionCard.vue";
-import FloatingSearch from "src/components/FloatingSearch.vue";
 import { mapGetters } from "vuex";
 export default {
-  name: "PageIndex",
-  components: {
-    QuestionCard,
-    FloatingSearch,
-  },
   computed: {
     ...mapGetters({
-      data: "example/getCurrentQuiz",
+      cards: "global/routerPages",
     }),
   },
 };
 </script>
+
+<style lang="less" scoped>
+.my-card {
+  width: 100%;
+  max-width: 250px;
+}
+.start-btn {
+  width: 100%;
+}
+</style>

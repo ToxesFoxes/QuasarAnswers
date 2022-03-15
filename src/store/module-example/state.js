@@ -27,5 +27,5 @@ export default {
       quiz: web
     },
   },
-  current: 'quizziz100'
+  current: 'quizziz90'
 }

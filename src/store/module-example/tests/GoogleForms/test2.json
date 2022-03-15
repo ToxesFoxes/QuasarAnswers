@@ -1,0 +1,2772 @@
+[
+  null,
+  [
+    "",
+    [
+      [168350853, "ФИО", null, 0, [[2109119118, null, 1]]],
+      [1167233716, "Web", null, 8],
+      [
+        1291788644,
+        "Требуется задать цвет заголовка зелёным. Какое стилевое свойство подойдёт для этой цели?",
+        null,
+        2,
+        [
+          [
+            669778337,
+            [
+              ["color", null, null, null, 0],
+              ["font-color", null, null, null, 0],
+              ["font-size", null, null, null, 0],
+              ["font-family", null, null, null, 0],
+              ["text", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        2066247964,
+        "Что такое стиль?",
+        null,
+        2,
+        [
+          [
+            1562866488,
+            [
+              [
+                "Метод преобразований текстовых документов в HTML",
+                null,
+                null,
+                null,
+                0
+              ],
+              [
+                "Способ сокращения HTML-кода за счёт переноса части данных в другой файл",
+                null,
+                null,
+                null,
+                0
+              ],
+              [
+                "Технология, представляющая собой разные приёмы для вёрстки HTML-кода",
+                null,
+                null,
+                null,
+                0
+              ],
+              [
+                "Набор правил форматирования элементов веб-страницы",
+                null,
+                null,
+                null,
+                0
+              ],
+              ["Язык разметки гипертекстовых документов", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1904637092,
+        "Как расшифровывается аббревиатура CSS?",
+        null,
+        2,
+        [
+          [
+            791901097,
+            [
+              ["Cascading Style Sheets", null, null, null, 0],
+              ["Creative Style Sheets", null, null, null, 0],
+              ["Common Style Sheets", null, null, null, 0],
+              ["Computer Style Sheets", null, null, null, 0],
+              ["Colorful Style Sheets", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1849191942,
+        "Какой HTML-код применяется для подключения внешнего CSS-файла?",
+        null,
+        2,
+        [
+          [
+            1370029325,
+            [
+              ["<link>@import url(mystyle.css)</link>", null, null, null, 0],
+              [
+                "<link rel='stylesheet' href='mystyle.css'>",
+                null,
+                null,
+                null,
+                0
+              ],
+              ["<style>@mystyle.css</style>", null, null, null, 0],
+              ["Вариант 1", null, null, null, 0],
+              ["<style>mystyle.css</style>", null, null, null, 0],
+              ["<stylesheet>mystyle.css</stylesheet>", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1980154400,
+        "В какой строке кода содержится ошибка?",
+        null,
+        2,
+        [
+          [
+            779579656,
+            [
+              ["p { text-align: center; color: #000000 }", null, null, null, 0],
+              ["h1 { color: #fc0; margin: 10px; }", null, null, null, 0],
+              ["div { color: red; font-size: 11pt; }", null, null, null, 0],
+              ["Все ответы верны", null, null, null, 0],
+              ["img { float: left; }", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1169390984,
+        "В какой строке содержится корректный синтаксис?",
+        null,
+        2,
+        [
+          [
+            648000473,
+            [
+              ["Body { color: black }", null, null, null, 0],
+              ["body: color = black", null, null, null, 0],
+              ["{ body; color: black }", null, null, null, 0],
+              ["{ body: color = black }", null, null, null, 0],
+              ["Body { color = black }", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        607025488,
+        "Как добавить фоновый цвет ко всем элементам <H1>?",
+        null,
+        2,
+        [
+          [
+            1176790149,
+            [
+              ["h1[all] { background-color: white }", null, null, null, 0],
+              ["h1#all { background-color: white }", null, null, null, 0],
+              ["h1 { background-color: white }", null, null, null, 0],
+              ["h1:all { background-color: white }", null, null, null, 0],
+              ["h1.all { background-color: white }", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        348709931,
+        "Как задать стиль у тега <div class='iddqd'>DOOM</div>?",
+        null,
+        2,
+        [
+          [
+            240282231,
+            [
+              ["div[iddqd] { color: red; }", null, null, null, 0],
+              ["div#iddqd { color: red; }", null, null, null, 0],
+              ["iddqd.div { color: red; }", null, null, null, 0],
+              ["div.iddqd { color: red; }", null, null, null, 0],
+              ["div=iddqd { color: red; }", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1181211533,
+        "Как корректно задать стиль для тега <div> с идентификатором loom?",
+        null,
+        2,
+        [
+          [
+            1454858916,
+            [
+              ["loom { font-size: bold; }", null, null, null, 0],
+              ["#loom# { font-size: bold; }", null, null, null, 0],
+              [".loom { font-size: bold; }", null, null, null, 0],
+              ["div { font-size: bold; }", null, null, null, 0],
+              ["Правильного ответа нет", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1558598854,
+        "Как называются особые свойства, которые позволяют менять стиль элемента в зависимости от действий пользователя, а также положения этого элемента (тега) в общем потоке документа, что позволяет разбавить дизайн страницы некой динамикой и логикой?",
+        null,
+        2,
+        [
+          [
+            939930504,
+            [
+              ["Теги", null, null, null, 0],
+              ["Атрибуты", null, null, null, 0],
+              ["Псевдоклассы", null, null, null, 0],
+              ["Классы", null, null, null, 0],
+              ["Псевдоэлементы", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        69873045,
+        "Какое CSS-свойство определяет размер интервала между буквами?",
+        null,
+        2,
+        [
+          [
+            1529729007,
+            [
+              ["white-space", null, null, null, 0],
+              ["text-decoration", null, null, null, 0],
+              ["direction", null, null, null, 0],
+              ["text-align", null, null, null, 0],
+              ["letter-spacing", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        41484201,
+        "Какой правильный способ указания цвета в CSS?",
+        null,
+        2,
+        [
+          [
+            866566963,
+            [
+              ["43#54", null, null, null, 0],
+              ["Правильного ответа нет", null, null, null, 0],
+              ["rgb(54321#)", null, null, null, 0],
+              ["#71C354", null, null, null, 0],
+              ["54321#", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        716643850,
+        "За что отвечает свойство padding-top?",
+        null,
+        2,
+        [
+          [
+            59098017,
+            [
+              [
+                "Определяет пространство между верхней границей и содержимым элемента",
+                null,
+                null,
+                null,
+                0
+              ],
+              [
+                "Определяет пространство между правой границей и содержимым элемента",
+                null,
+                null,
+                null,
+                0
+              ],
+              ["Правильного ответа нет", null, null, null, 0],
+              [
+                "Определяет пространство между содержимым элемента и нижней границей",
+                null,
+                null,
+                null,
+                0
+              ],
+              [
+                "Определяет пространство между содержимым элемента и левой границей",
+                null,
+                null,
+                null,
+                0
+              ]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        76463630,
+        "Что делает CSS-свойство margin?",
+        null,
+        2,
+        [
+          [
+            1166792120,
+            [
+              [
+                "Определяет пространство между границами элемента и окружающими элементами",
+                null,
+                null,
+                null,
+                0
+              ],
+              [
+                "Определяет пространство между содержимым элемента и окружающими элементами",
+                null,
+                null,
+                null,
+                0
+              ],
+              ["Правильного ответа нет", null, null, null, 0],
+              ["Определяет размер границ элемента", null, null, null, 0],
+              [
+                "Определяет пространство между границами элемента и его содержимым",
+                null,
+                null,
+                null,
+                0
+              ]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1915735485,
+        "Как применить один стиль к нескольким селекторам?",
+        null,
+        2,
+        [
+          [
+            822736710,
+            [
+              [
+                "Перечислить селекторы через точку запятую",
+                null,
+                null,
+                null,
+                0
+              ],
+              ["Перечислить селекторы через запятую", null, null, null, 0],
+              ["Перечислить селекторы через точку", null, null, null, 0],
+              ["Перечислить селекторы через двоеточие", null, null, null, 0],
+              ["Перечислить селекторы через тире", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1642876442,
+        "Что такое HTML-селекторы?",
+        null,
+        2,
+        [
+          [
+            149505210,
+            [
+              [
+                "В качестве селектора мы используем имя класса, который хотим изменить",
+                null,
+                null,
+                null,
+                0
+              ],
+              [
+                "В качестве селектора мы используем тег, который хотим изменить",
+                null,
+                null,
+                null,
+                0
+              ],
+              [
+                "В качестве селектора мы используем атрибут, который хотим изменить",
+                null,
+                null,
+                null,
+                0
+              ],
+              [
+                "В качестве селектора мы используем ID, который хотим изменить",
+                null,
+                null,
+                null,
+                0
+              ],
+              [
+                "В качестве селектора мы используем имя того html-элемента, который хотим изменить",
+                null,
+                null,
+                null,
+                0
+              ],
+              ["Вариант 1", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        141799597,
+        "Какой атрибут тега <img> указывает путь к файлу изображения?",
+        null,
+        2,
+        [
+          [
+            1212662589,
+            [
+              ["src", null, null, null, 0],
+              ["align", null, null, null, 0],
+              ["alt", null, null, null, 0],
+              ["href", null, null, null, 0],
+              ["size", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1780545718,
+        "Какой свойство позволяет изменять цвет текста?",
+        null,
+        2,
+        [
+          [
+            1542657323,
+            [
+              ["alink", null, null, null, 0],
+              ["vlink", null, null, null, 0],
+              ["textcolor", null, null, null, 0],
+              ["text", null, null, null, 0],
+              ["color", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        2138819761,
+        "Какой из перечисленных тегов непригоден для описания PHP кода?",
+        null,
+        2,
+        [
+          [
+            1582257812,
+            [
+              ["<?php", null, null, null, 0],
+              ["<?= ?>", null, null, null, 0],
+              ["<! !>", null, null, null, 0],
+              ["<? ?>", null, null, null, 0],
+              ["<?php ?>", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1909655925,
+        "Как осуществляется вывод текста на экран в PHP?",
+        null,
+        2,
+        [
+          [
+            53338569,
+            [
+              ["Правильного ответа нет", null, null, null, 0],
+              ["output('Выводимая информация')", null, null, null, 0],
+              ["echo 'Выводимая информация';", null, null, null, 0],
+              ["writeln('Выводимая информация')", null, null, null, 0],
+              ["writeln(Выводимая информация);", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        583531155,
+        "Как пишется цикл от 1 до n в PHP?",
+        null,
+        2,
+        [
+          [
+            1759555419,
+            [
+              ["for ($i = 1 to n) {}", null, null, null, 0],
+              ["for ($i = 1, $i <= $n, $i++) {}", null, null, null, 0],
+              ["for (i = 1; i <= n; i++) {}", null, null, null, 0],
+              ["for ($i = 1; $ i<= $n; $i++) {}", null, null, null, 0],
+              ["for ($i := 1; $i <= $n; $i++) {}", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1341198752,
+        "Какое условие написано в JS правильно?",
+        null,
+        2,
+        [
+          [
+            640216532,
+            [
+              ["if a == 5 {} else {}", null, null, null, 0],
+              ["if (a == 5) {}", null, null, null, 0],
+              ["if a == 5 {}", null, null, null, 0],
+              ["if (a = 5) {}", null, null, null, 0],
+              ["if a = 5 {} else {}", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        375981716,
+        "Как в PHP получить значение параметра по методу GET?",
+        null,
+        2,
+        [
+          [
+            211342047,
+            [
+              ["a = _GET['parameter'];", null, null, null, 0],
+              ["$a = $GET['parameter'];", null, null, null, 0],
+              ["a = $GET['parameter']", null, null, null, 0],
+              ["$a = _GET['parameter'];", null, null, null, 0],
+              ["$a = $_GET['parameter'];", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        855645834,
+        "Как в PHP получить значение параметра по методу POST?",
+        null,
+        2,
+        [
+          [
+            2086298829,
+            [
+              ["a = _POST['parameter'];", null, null, null, 0],
+              ["$a = $_POST['parameter'];", null, null, null, 0],
+              ["$a = _POST['parameter'];", null, null, null, 0],
+              ["a = $POST['parameter'];", null, null, null, 0],
+              ["$a = $POST['parameter'];", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        871182603,
+        "Как описывается строковый комментарии в PHP?",
+        null,
+        2,
+        [
+          [
+            286991279,
+            [
+              ["//*", null, null, null, 0],
+              ["//", null, null, null, 0],
+              ["///", null, null, null, 0],
+              ["<!-- -->", null, null, null, 0],
+              ["/*……….. */", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        385545631,
+        "Как описывается многострочный комментарии в JS?",
+        null,
+        2,
+        [
+          [
+            917216493,
+            [
+              ["//", null, null, null, 0],
+              ["<!-- -->", null, null, null, 0],
+              ["/*……….. */", null, null, null, 0],
+              ["///", null, null, null, 0],
+              ["//* …….*//", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        104726575,
+        "Как можно определить константу в PHP?",
+        null,
+        2,
+        [
+          [
+            1595625608,
+            [
+              ["const(\"a\", \"5\");", null, null, null, 0],
+              ["var(\"a\", \"5\");", null, null, null, 0],
+              ["let(\"a\", 5);", null, null, null, 0],
+              ["declare(\"a\", \"5\");", null, null, null, 0],
+              ["define(\"a\", \"5\");", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        887825200,
+        "Пусть a=10. Чему равно a после операции a+=15 в JS?",
+        null,
+        2,
+        [
+          [
+            2047528239,
+            [
+              ["-5", null, null, null, 0],
+              ["10", null, null, null, 0],
+              ["15", null, null, null, 0],
+              ["Правильного ответа нет", null, null, null, 0],
+              ["5", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        310171242,
+        "Что означает X%Y в JS?",
+        null,
+        2,
+        [
+          [
+            1321700213,
+            [
+              ["Остаток от деления X на Y", null, null, null, 0],
+              ["Процент Y от X", null, null, null, 0],
+              ["Деление X на Y", null, null, null, 0],
+              ["Двойное деление X на Y", null, null, null, 0],
+              ["Возведение X в степень Y", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        165391599,
+        "Какая из программ на языке PHP написана правильно?",
+        null,
+        2,
+        [
+          [
+            297596182,
+            [
+              ["a := 2; b := 3; c := a + b;", null, null, null, 0],
+              ["a =: 2; b =: 3; c =: a + b;", null, null, null, 0],
+              ["$a := 2; $b := 3; $c := $a + $b;", null, null, null, 0],
+              ["$a = 2; $b = 3; $c = $a + $b;", null, null, null, 0],
+              ["a = 2; b = 3; c = a + b;", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1385117759,
+        "Что означает на языке PHP следующая запись $a+=$b?",
+        null,
+        2,
+        [
+          [
+            912201778,
+            [
+              ["$b = $b + $a;", null, null, null, 0],
+              ["$b = $a + 1;", null, null, null, 0],
+              ["$a = $a + $b;", null, null, null, 0],
+              ["$a = $b + 1;", null, null, null, 0],
+              ["$b = $b + $a + 1;", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1184872285,
+        "Что означает на языке JS оператор != ?",
+        null,
+        2,
+        [
+          [
+            1610455748,
+            [
+              ["Не равно", null, null, null, 0],
+              ["Может быть равно", null, null, null, 0],
+              ["Такого оператора нет", null, null, null, 0],
+              ["Больше или равно", null, null, null, 0],
+              ["Меньше или равно", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            0
+          ]
+        ]
+      ],
+      [
+        566153076,
+        "Что будет храниться в переменной $res в результате PHP-операций $res = $s.$n, если $s=\"PHP\"; $n=7; ?",
+        null,
+        2,
+        [
+          [
+            742098248,
+            [
+              ["PHP,7", null, null, null, 0],
+              ["PHP", null, null, null, 0],
+              ["PHP+7", null, null, null, 0],
+              ["PHP.7", null, null, null, 0],
+              ["PHP7", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        510163938,
+        "Какой командой в JS осуществляется прерывание цикла?",
+        null,
+        2,
+        [
+          [
+            102819822,
+            [
+              ["exit;", null, null, null, 0],
+              ["fault;", null, null, null, 0],
+              ["output;", null, null, null, 0],
+              ["return;", null, null, null, 0],
+              ["break;", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        77417225,
+        "Что означает на языке PHP код return $s?",
+        null,
+        2,
+        [
+          [
+            176217601,
+            [
+              ["Переход к метке s", null, null, null, 0],
+              ["Обновляет значение переменной s", null, null, null, 0],
+              ["Вариант 1", null, null, null, 0],
+              ["Возвращает значение s", null, null, null, 0],
+              ["s раз выполняется итерация", null, null, null, 0],
+              [
+                "Переменной s присваивается начальное значение",
+                null,
+                null,
+                null,
+                0
+              ]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        750329494,
+        "Какого типа данных нет в PHP?",
+        null,
+        2,
+        [
+          [
+            687981558,
+            [
+              ["string", null, null, null, 0],
+              ["boolean", null, null, null, 0],
+              ["float", null, null, null, 0],
+              ["real", null, null, null, 0],
+              ["integer", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        482856595,
+        "Какого типа данных нет в PHP?",
+        null,
+        2,
+        [
+          [
+            1025307190,
+            [
+              ["label", null, null, null, 0],
+              ["boolean", null, null, null, 0],
+              ["string", null, null, null, 0],
+              ["integer", null, null, null, 0],
+              ["float", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1615106377,
+        "Что такое PHP?",
+        null,
+        2,
+        [
+          [
+            471263221,
+            [
+              ["Язык программирования серверных скриптов", null, null, null, 0],
+              ["Программа для просмотра web-страниц", null, null, null, 0],
+              ["Сам web-сайт", null, null, null, 0],
+              ["Тип web-страницы", null, null, null, 0],
+              ["Язык программирования базы данных", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1375146527,
+        "Пусть PHP-переменная $a = 10. Чему она будет равна после операции $a *= 15?",
+        null,
+        2,
+        [
+          [
+            579316423,
+            [
+              ["10", null, null, null, 0],
+              ["15", null, null, null, 0],
+              ["5", null, null, null, 0],
+              ["Правильного ответа нет", null, null, null, 0],
+              ["150", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1966098353,
+        "Пусть PHP-переменная $a = 15. Чему она будет равна после операции $a /= 10?",
+        null,
+        2,
+        [
+          [
+            630858662,
+            [
+              ["5", null, null, null, 0],
+              ["1.5", null, null, null, 0],
+              ["Правильного ответа нет", null, null, null, 0],
+              ["10", null, null, null, 0],
+              ["15", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1695251745,
+        "Как пишется оператор while в JS?",
+        null,
+        2,
+        [
+          [
+            1909477285,
+            [
+              ["while условие { блок_кода }", null, null, null, 0],
+              ["while {условие} { блок_кода }", null, null, null, 0],
+              ["Вариант 5", null, null, null, 0],
+              ["while (условие) { блок_кода }", null, null, null, 0],
+              ["while (условие) ( блок_кода )", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        333952151,
+        "Где может быть объявлена функция в PHP?",
+        null,
+        2,
+        [
+          [
+            786868112,
+            [
+              ["Только специальных модулях", null, null, null, 0],
+              ["В любой части программы", null, null, null, 0],
+              ["Только в классах", null, null, null, 0],
+              ["В начале программы", null, null, null, 0],
+              ["В конце программы", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        2141693017,
+        "Как объявить в PHP переменную x глобальной?",
+        null,
+        2,
+        [
+          [
+            142994557,
+            [
+              ["var $x", null, null, null, 0],
+              ["g $x;", null, null, null, 0],
+              ["glob $x;", null, null, null, 0],
+              ["gll $x;", null, null, null, 0],
+              ["global $x;", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        318995754,
+        "Что означает в JS следующая запись: t = ++r ?",
+        null,
+        2,
+        [
+          [
+            828796979,
+            [
+              ["Суммирование t и r", null, null, null, 0],
+              ["Присвоение t значение r + 2", null, null, null, 0],
+              ["Присвоение t значение r + 1", null, null, null, 0],
+              ["Увеличение t на 1", null, null, null, 0],
+              ["Присвоение t значение r + r", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1197884855,
+        "Какой вид имеет условный оператор if  в PHP?",
+        null,
+        2,
+        [
+          [
+            1024617625,
+            [
+              [
+                "if условие then блок_кода else блок_кода end",
+                null,
+                null,
+                null,
+                0
+              ],
+              [
+                "if условие then блок_кода else блок_кода endif",
+                null,
+                null,
+                null,
+                0
+              ],
+              [
+                "if (условие) { блок_кода } else { блок_кода }",
+                null,
+                null,
+                null,
+                0
+              ],
+              [
+                "if (условие) then { блок_кода } else { блок_кода }",
+                null,
+                null,
+                null,
+                0
+              ],
+              [
+                "if условие then блок_кода else блок_кода if end",
+                null,
+                null,
+                null,
+                0
+              ]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1587802425,
+        "Какой вид имеет оператор while в PHP?",
+        null,
+        2,
+        [
+          [
+            1667780086,
+            [
+              ["while условие do { блок_кода } endwhile", null, null, null, 0],
+              ["while (условие) do { блок_кода } end", null, null, null, 0],
+              [
+                "while (условие) do { блок_кода } whileend",
+                null,
+                null,
+                null,
+                0
+              ],
+              ["while (условие) { блок_кода }", null, null, null, 0],
+              ["while условие do { блок_кода }", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        231849492,
+        "Какой выражение используется для вывода содержимого переменной $x в PHP?",
+        null,
+        2,
+        [
+          [
+            1199919437,
+            [
+              ["echo $x;", null, null, null, 0],
+              ["echo \"x\";", null, null, null, 0],
+              ["echo x;", null, null, null, 0],
+              ["echo '$x';", null, null, null, 0],
+              ["echo \"$x\"", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1446381778,
+        "Как описывается логическое \"и\" в PHP?",
+        null,
+        2,
+        [
+          [
+            448964823,
+            [
+              ["&", null, null, null, 0],
+              ["||", null, null, null, 0],
+              ["|", null, null, null, 0],
+              ["&&", null, null, null, 0],
+              ["!", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        934558976,
+        "Как описывается логическое \"и\" в JS?",
+        null,
+        2,
+        [
+          [
+            1585386882,
+            [
+              ["&", null, null, null, 0],
+              ["||", null, null, null, 0],
+              ["&&", null, null, null, 0],
+              ["!", null, null, null, 0],
+              ["|", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        810547022,
+        "Как описывается логическое \"или\" в PHP?",
+        null,
+        2,
+        [
+          [
+            1293363047,
+            [
+              ["!", null, null, null, 0],
+              ["&&", null, null, null, 0],
+              ["xor", null, null, null, 0],
+              ["||", null, null, null, 0],
+              ["|", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1297152478,
+        "Как описывается логическое \"или\" в JS?",
+        null,
+        2,
+        [
+          [
+            1740419323,
+            [
+              ["&&", null, null, null, 0],
+              ["||", null, null, null, 0],
+              ["!", null, null, null, 0],
+              ["|", null, null, null, 0],
+              ["xor", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1404808656,
+        "Как описывается присвоение значения переменной в PHP?",
+        null,
+        2,
+        [
+          [
+            269083757,
+            [
+              ["===", null, null, null, 0],
+              ["=", null, null, null, 0],
+              ["==", null, null, null, 0],
+              ["=:", null, null, null, 0],
+              [":=", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1377740737,
+        "Как определяется присвоение значения переменной в JS?",
+        null,
+        2,
+        [
+          [
+            402936411,
+            [
+              [":=", null, null, null, 0],
+              ["==", null, null, null, 0],
+              ["=", null, null, null, 0],
+              ["===", null, null, null, 0],
+              ["=:", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1479729214,
+        "Что делает функция pow($a, $b) в PHP?",
+        null,
+        2,
+        [
+          [
+            376450661,
+            [
+              ["Умножает a на b", null, null, null, 0],
+              ["Извлекает корень a из b", null, null, null, 0],
+              ["Возводит a в b степень", null, null, null, 0],
+              ["Складывает a и b", null, null, null, 0],
+              ["Делит a на b", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        576789216,
+        "Как описывается инициализация сессии в PHP?",
+        null,
+        2,
+        [
+          [
+            2133165280,
+            [
+              ["session_go", null, null, null, 0],
+              ["session_init", null, null, null, 0],
+              ["sessionstart", null, null, null, 0],
+              ["session", null, null, null, 0],
+              ["session_start", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        2071475412,
+        "Что в PHP дает код $a = substr(\"abcd\", 2, 2)?",
+        null,
+        2,
+        [
+          [
+            375723028,
+            [
+              ["в $a будет \"bcd\"", null, null, null, 0],
+              ["в $a останется \"abcd\"", null, null, null, 0],
+              ["в $a будет \"ab\"", null, null, null, 0],
+              ["в $a будет \"cd\"", null, null, null, 0],
+              ["в $a будет \"bc\"", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        474284932,
+        "Что в JS дает код pos = \"abcd\".indexOf(\"c\")?",
+        null,
+        2,
+        [
+          [
+            1236758775,
+            [
+              ["В pos будет false", null, null, null, 0],
+              ["В pos будет 2", null, null, null, 0],
+              ["В pos будет 0", null, null, null, 0],
+              ["В pos будет 3", null, null, null, 0],
+              ["В pos будет 1", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1803301837,
+        "Что в JS делает строковый метод trim()?",
+        null,
+        2,
+        [
+          [
+            1128579000,
+            [
+              [
+                "Убирает символ / в начале и в конце строки",
+                null,
+                null,
+                null,
+                0
+              ],
+              ["Убирает все пробелы из строки", null, null, null, 0],
+              ["Убирает скобки из строки", null, null, null, 0],
+              [
+                "Убирает вспомогательные символы из строки",
+                null,
+                null,
+                null,
+                0
+              ],
+              ["Убирает пробелы в начале и в конце строки", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1063980614,
+        "Что в PHP даст код $v = strlen($x)?",
+        null,
+        2,
+        [
+          [
+            792530453,
+            [
+              ["Правильного ответа нет", null, null, null, 0],
+              ["Число пробелов в $x", null, null, null, 0],
+              ["Число строк в $x", null, null, null, 0],
+              ["Длину строки $x", null, null, null, 0],
+              ["Список элементов $x", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        807958033,
+        "Что в JS вернёт код \"test\".length?",
+        null,
+        2,
+        [
+          [
+            1008305492,
+            [
+              ["Список элементов", null, null, null, 0],
+              ["Длину строки", null, null, null, 0],
+              ["Число строк", null, null, null, 0],
+              ["Обрезанную строку", null, null, null, 0],
+              ["Число пробелов", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1619240710,
+        "Какой операции эквивалентна функция array_push($a, 5) в PHP?",
+        null,
+        2,
+        [
+          [
+            1078585894,
+            [
+              ["$a->push(5)", null, null, null, 0],
+              ["$a = $a * 5;", null, null, null, 0],
+              ["$a = $a - 5;", null, null, null, 0],
+              ["$a = $a + 5;", null, null, null, 0],
+              ["$a[] = 5;", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        2095753910,
+        "Где находится информация при передаче данных методом GET?",
+        null,
+        2,
+        [
+          [
+            1192746761,
+            [
+              ["В конце Web страницы", null, null, null, 0],
+              ["В конце Интернет-адреса", null, null, null, 0],
+              ["В специальной форме обозревателя", null, null, null, 0],
+              ["В специальной гиперссылке", null, null, null, 0],
+              ["Перед Интернет-адресом", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1902043243,
+        "Какой символ в PHP определяет логическое \"не\"?!",
+        null,
+        2,
+        [
+          [
+            374790944,
+            [
+              ["!", null, null, null, 0],
+              ["-", null, null, null, 0],
+              ["|", null, null, null, 0],
+              ["||", null, null, null, 0],
+              ["!!", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        201326740,
+        "Какой символ в JS определяет логическое \"не\"?",
+        null,
+        2,
+        [
+          [
+            446111717,
+            [
+              ["!", null, null, null, 0],
+              ["-", null, null, null, 0],
+              ["!!", null, null, null, 0],
+              ["||", null, null, null, 0],
+              ["|", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        664925620,
+        "Что означает условное выражение isset($a) в PHP?",
+        null,
+        2,
+        [
+          [
+            1978934245,
+            [
+              ["Переменная $a объявлена", null, null, null, 0],
+              ["Переменная $а имеет значение NULL", null, null, null, 0],
+              ["Переменная $a существует", null, null, null, 0],
+              ["Переменной $а присвоено значение", null, null, null, 0],
+              [
+                "Переменная $а существует и имеет значение, отличное от NULL",
+                null,
+                null,
+                null,
+                0
+              ]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1706447748,
+        "Каким символом обозначается переменная в PHP?",
+        null,
+        2,
+        [
+          [
+            316886406,
+            [
+              ["#", null, null, null, 0],
+              ["!", null, null, null, 0],
+              ["%", null, null, null, 0],
+              ["&", null, null, null, 0],
+              ["$", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        2024942766,
+        "К какой системе управления базами данными относится СУБД MySQL?",
+        null,
+        2,
+        [
+          [
+            1076574873,
+            [
+              ["Иерархические", null, null, null, 0],
+              ["Структурированные", null, null, null, 0],
+              ["Реляционные", null, null, null, 0],
+              ["Объектно-реляционные", null, null, null, 0],
+              ["Объектно-ориентированные", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1926338817,
+        "Какой оператор в PHP используется для сравнения двух значений во всех отношениях?",
+        null,
+        2,
+        [
+          [
+            1434737732,
+            [
+              ["=", null, null, null, 0],
+              ["===", null, null, null, 0],
+              ["!==", null, null, null, 0],
+              ["==", null, null, null, 0],
+              ["Instanceof", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1368608821,
+        "Как проверить две переменные в JS на предмет равенства одному и тому же типу и значению?",
+        null,
+        2,
+        [
+          [
+            1401902422,
+            [
+              ["If (obj1 === obj2)", null, null, null, 0],
+              ["If ($obj1 == $obj2)", null, null, null, 0],
+              ["If (obj1.is($obj2))", null, null, null, 0],
+              ["If (obj1.instanceof(obj2))", null, null, null, 0],
+              ["If ($obj1.eq($obj2))", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1430674291,
+        "Какой метод в JS вызывается автоматически, когда объект представляется в виде строки?",
+        null,
+        2,
+        [
+          [
+            130223396,
+            [
+              ["getString()", null, null, null, 0],
+              ["toString()", null, null, null, 0],
+              ["Вариант 5", null, null, null, 0],
+              ["value()", null, null, null, 0],
+              ["get()", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        640084783,
+        "Как указать кодировку html-документа?",
+        null,
+        2,
+        [
+          [
+            1734749405,
+            [
+              ["<meta lang=\"utf-8\">", null, null, null, 0],
+              ["<body charset=\"utf-8\">", null, null, null, 0],
+              ["<meta codebase=\"utf-8\">", null, null, null, 0],
+              ["<meta charset=\"utf-8\">", null, null, null, 0],
+              ["<html lang=\"ru\">", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1449419323,
+        "Какая строка содержит ошибку?",
+        null,
+        2,
+        [
+          [
+            1747166977,
+            [
+              ["Правильного ответа нет", null, null, null, 0],
+              [
+                "<img src='black.jpg' alt='Люди в чёрном'>",
+                null,
+                null,
+                null,
+                0
+              ],
+              [
+                "<img src=\"black.jpg\" alt=\"Пришельцы\">",
+                null,
+                null,
+                null,
+                0
+              ],
+              [
+                "<img src='black.jpg' alt='Люди в чёрном'/>",
+                null,
+                null,
+                null,
+                0
+              ],
+              [
+                "<img src=\"black.jpg\" alt=\"Люди в чёрном\"/>",
+                null,
+                null,
+                null,
+                0
+              ]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1355733421,
+        "Какой тег позволяет определить поле для ввода пароля?",
+        null,
+        2,
+        [
+          [
+            406430767,
+            [
+              ["<pass>", null, null, null, 0],
+              ["<hide>", null, null, null, 0],
+              ["<password>", null, null, null, 0],
+              ["<input type='password'>", null, null, null, 0],
+              ["<input type='pass' />", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        121972180,
+        "Как называется технология позволяющая визуально изменять HTML-документы?",
+        null,
+        2,
+        [
+          [
+            1144157984,
+            [
+              ["PHP", null, null, null, 0],
+              ["Вариант 5", null, null, null, 0],
+              ["jQuery", null, null, null, 0],
+              ["XHTML", null, null, null, 0],
+              ["CSS", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1704585670,
+        "Выберите правильный способ создания ссылки?",
+        null,
+        2,
+        [
+          [
+            416638719,
+            [
+              ["<a href=\"xxx@yyy\">", null, null, null, 0],
+              ["<a>http://www.w3schools.com</a>", null, null, null, 0],
+              [
+                "<a url=\"http://www.w3schools.com\">W3Schools.com</a>",
+                null,
+                null,
+                null,
+                0
+              ],
+              [
+                "<a href=\"http://www.w3schools.com\">W3Schools</a>",
+                null,
+                null,
+                null,
+                0
+              ],
+              [
+                "<a name=\"http://www.w3schools.com\">W3Schools.com</a>",
+                null,
+                null,
+                null,
+                0
+              ]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1321450904,
+        "Каким тегом определяется абзац текста?",
+        null,
+        2,
+        [
+          [
+            1881326199,
+            [
+              ["<p>", null, null, null, 0],
+              ["<span>", null, null, null, 0],
+              ["<br>", null, null, null, 0],
+              ["<textarea>", null, null, null, 0],
+              ["<div>", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1465683479,
+        "К какому типу ссылок относится данный код: <audio src=\"http://test.com/test.mp3\"></audio>?",
+        null,
+        2,
+        [
+          [
+            869203888,
+            [
+              ["Безанкорная", null, null, null, 0],
+              ["Графическая", null, null, null, 0],
+              ["Относительная", null, null, null, 0],
+              ["Смешанная", null, null, null, 0],
+              ["Абсолютная", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1294765442,
+        "Что означает следующий код: <img src=\"путь_к_картинке\">?",
+        null,
+        2,
+        [
+          [
+            2016887376,
+            [
+              ["Вставка второй страницы html", null, null, null, 0],
+              ["Вставка текста", null, null, null, 0],
+              ["Вставка видеоролика", null, null, null, 0],
+              ["Вставка изображения", null, null, null, 0],
+              ["Вставка документа на страницу", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        604062082,
+        "Каким тегом описывается видимая часть HTML-страницы?",
+        null,
+        2,
+        [
+          [
+            299062305,
+            [
+              ["<table></table>", null, null, null, 0],
+              ["<html></html>", null, null, null, 0],
+              ["<head></head>", null, null, null, 0],
+              ["<?php> <?php>", null, null, null, 0],
+              ["<body></body>", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1918872272,
+        "Какой оператор JS позволяет получить доступ к элементу страницы?",
+        null,
+        2,
+        [
+          [
+            530447869,
+            [
+              ["getElement()", null, null, null, 0],
+              ["document.querySelector()", null, null, null, 0],
+              ["element()", null, null, null, 0],
+              ["document.element()", null, null, null, 0],
+              ["document.getElement()", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        392199097,
+        "Какой метод JS позволяет добавить обработчик события?",
+        null,
+        2,
+        [
+          [
+            99699370,
+            [
+              ["listen()", null, null, null, 0],
+              ["addEventListener()", null, null, null, 0],
+              ["addEvent()", null, null, null, 0],
+              ["addListener()", null, null, null, 0],
+              ["event()", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1457385729,
+        "Какая JS-функция описана правильно?",
+        null,
+        2,
+        [
+          [
+            2014049225,
+            [
+              ["function test() {}", null, null, null, 0],
+              ["fn test() {}", null, null, null, 0],
+              ["def test() {}", null, null, null, 0],
+              ["func test() {}", null, null, null, 0],
+              ["test = func()", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            0
+          ]
+        ]
+      ],
+      [
+        467881434,
+        "Какая JS-функция описана правильно?",
+        null,
+        2,
+        [
+          [
+            1081714046,
+            [
+              ["test() => {}", null, null, null, 0],
+              ["test = () => {}", null, null, null, 0],
+              ["test = func()", null, null, null, 0],
+              ["func test() {}", null, null, null, 0],
+              ["def test() {}", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1017665884,
+        "Каким методом в JS можно добавить класс элементу?",
+        null,
+        2,
+        [
+          [
+            1700387726,
+            [
+              ["element.classList.add()", null, null, null, 0],
+              ["element.class.add()", null, null, null, 0],
+              ["element.add.class()", null, null, null, 0],
+              ["element.add.classList()", null, null, null, 0],
+              ["element.add()", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1323510845,
+        "Какой JS-код сделает цвет текста красным?",
+        null,
+        2,
+        [
+          [
+            1457841529,
+            [
+              ["element.color = \"red\"", null, null, null, 0],
+              ["element.style.color = \"red\"", null, null, null, 0],
+              ["element.css.color = \"red\"", null, null, null, 0],
+              ["element.style.fontColor = \"red\"", null, null, null, 0],
+              ["element.css.fontColor = \"red\"", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        474779326,
+        "Какой код SQL выберет все поля из таблицы test?",
+        null,
+        2,
+        [
+          [
+            2123175583,
+            [
+              ["SELECT ALL FROM `test`", null, null, null, 0],
+              ["SELECT `ALL` FROM `test`", null, null, null, 0],
+              ["SELECT FROM test", null, null, null, 0],
+              ["SELECT ALL FROM test", null, null, null, 0],
+              ["SELECT * FROM test", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        46712182,
+        "Какой код SQL выберет из таблицы test все строки, в которых поле balance больше 10?",
+        null,
+        2,
+        [
+          [
+            1644761498,
+            [
+              ["SELECT balance FROM test", null, null, null, 0],
+              ["SELECT * FROM test IF balance > 10", null, null, null, 0],
+              ["SELECT balance > 10 FROM test", null, null, null, 0],
+              ["SELECT * FROM test WHERE balance > 10", null, null, null, 0],
+              ["SELECT * FROM test FILTER BY balance > 10", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1441826686,
+        "Какой код SQL добавит в таблицу test новую строку?",
+        null,
+        2,
+        [
+          [
+            518870536,
+            [
+              [
+                "INSERT ROWS test VALUES (null, 1, 'test')",
+                null,
+                null,
+                null,
+                0
+              ],
+              [
+                "INSERT ROWS test (Id, Value, Text) VALUES (null, 1, 'test')",
+                null,
+                null,
+                null,
+                0
+              ],
+              ["INSERT INTO test VALUE (null, 1, 'test')", null, null, null, 0],
+              [
+                "INSERT INTO test (Id, Value, Text) VALUES (null, 1, 'test')",
+                null,
+                null,
+                null,
+                0
+              ],
+              ["INSERT (null, 1, 'test') INTO test", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1806232047,
+        "Какое ключевое слово SQL позволяет отсортировать выборку?",
+        null,
+        2,
+        [
+          [
+            1635686908,
+            [
+              ["SORT", null, null, null, 0],
+              ["ORDER BY", null, null, null, 0],
+              ["SORT ASC", null, null, null, 0],
+              ["ORDER ASC", null, null, null, 0],
+              ["LIST ASC", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1449902565,
+        "Какой оператор SQL позволяет изменить значение в таблице?",
+        null,
+        2,
+        [
+          [
+            1715449973,
+            [
+              ["UPDATE", null, null, null, 0],
+              ["MODIFY", null, null, null, 0],
+              ["CHANGE", null, null, null, 0],
+              ["JOIN", null, null, null, 0],
+              ["SWITCH", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1959109214,
+        "Какой оператор SQL позволяет удалить строку из таблицы?",
+        null,
+        2,
+        [
+          [
+            1792179375,
+            [
+              ["REMOVE FROM", null, null, null, 0],
+              ["UNSET", null, null, null, 0],
+              ["REMOVE", null, null, null, 0],
+              ["UNSET FROM", null, null, null, 0],
+              ["DELETE FROM", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        702268131,
+        "Какой оператор SQL позволяет объединить несколько выборок в одну?",
+        null,
+        2,
+        [
+          [
+            1096455347,
+            [
+              ["INNER JOIN", null, null, null, 0],
+              ["OUTER JOIN", null, null, null, 0],
+              ["JOIN", null, null, null, 0],
+              ["UNION", null, null, null, 0],
+              ["LEFT JOIN", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1191958556,
+        "Как в SQL описывается логическое «и»?",
+        null,
+        2,
+        [
+          [
+            887308105,
+            [
+              ["&&", null, null, null, 0],
+              ["AND", null, null, null, 0],
+              ["!", null, null, null, 0],
+              ["+", null, null, null, 0],
+              ["&", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1085474091,
+        "Как в SQL описывается логическое «или»?",
+        null,
+        2,
+        [
+          [
+            1789940416,
+            [
+              ["!", null, null, null, 0],
+              ["-", null, null, null, 0],
+              ["||", null, null, null, 0],
+              ["OR", null, null, null, 0],
+              ["|", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1308910095,
+        "Как в JS описывается переменная?",
+        null,
+        2,
+        [
+          [
+            1310373562,
+            [
+              ["const a;", null, null, null, 0],
+              ["let a;", null, null, null, 0],
+              ["int a;", null, null, null, 0],
+              ["define(a);", null, null, null, 0],
+              ["define a;", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        812875917,
+        "Как в JS описывается константа?",
+        null,
+        2,
+        [
+          [
+            540073908,
+            [
+              ["let a = 1;", null, null, null, 0],
+              ["int a = 1;", null, null, null, 0],
+              ["var a = 1;", null, null, null, 0],
+              ["const a = 1;", null, null, null, 0],
+              ["define(a, 1);", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        450186005,
+        "Как в JS встроить значение переменной в строку?",
+        null,
+        2,
+        [
+          [
+            132104198,
+            [
+              ["\"var a is ${a}\"", null, null, null, 0],
+              ["'var a is ${a}'", null, null, null, 0],
+              ["`var a is {a}`", null, null, null, 0],
+              ["\"var a is {a}\"", null, null, null, 0],
+              ["`var a is ${a}`", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        2105617593,
+        "Переменные какого типа данных могут быть использованы в условном выражении в JS?",
+        null,
+        2,
+        [
+          [
+            931289360,
+            [
+              ["Boolean, number, string", null, null, null, 0],
+              ["Только boolean", null, null, null, 0],
+              ["Только примитивные типы", null, null, null, 0],
+              ["Boolean и number", null, null, null, 0],
+              ["Любого типа", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        141116739,
+        "Какое из описаний массива в JS верно?",
+        null,
+        2,
+        [
+          [
+            603012845,
+            [
+              ["array a = (1, 2, 3)", null, null, null, 0],
+              ["let a = (1, 2, 3)", null, null, null, 0],
+              ["let a = [1, \"2\", true];", null, null, null, 0],
+              ["let a = array(1, 2, 3)", null, null, null, 0],
+              ["array a = {1, 2, 3};", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ],
+      [
+        1443234749,
+        "Какое описание класса в JS верно?",
+        null,
+        2,
+        [
+          [
+            22275531,
+            [
+              ["class test() {}", null, null, null, 0],
+              ["В JS нельзя описать класс", null, null, null, 0],
+              ["new class test() {}", null, null, null, 0],
+              ["class test {}", null, null, null, 0],
+              ["new class test {}", null, null, null, 0]
+            ],
+            0,
+            null,
+            null,
+            null,
+            null,
+            null,
+            1
+          ]
+        ]
+      ]
+    ],
+    null,
+    null,
+    null,
+    [0, 0],
+    null,
+    null,
+    "ГОС Аттестация 2021 2022",
+    52,
+    [null, null, null, 2, 0],
+    null,
+    null,
+    null,
+    null,
+    [2],
+    [[1, 1, 1, 1, 1], 1, 1]
+  ],
+  "/forms",
+  "ГОС Аттестация 2021 2022",
+  null,
+  null,
+  null,
+  "0",
+  null,
+  0,
+  0,
+  null,
+  "",
+  0,
+  "e/1FAIpQLSdW0o0uCgPwFuXxAddRBs5b96hP_FbG1Di1n8iV6ByuIX3Qzg",
+  0,
+  1,
+  0
+]

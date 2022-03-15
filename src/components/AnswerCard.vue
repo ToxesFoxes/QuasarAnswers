@@ -32,12 +32,6 @@ export default {
   },
   computed: {
     question_id() {
-      // switch (this.version) {
-      //   case "2.0":
-      //     return this.question.id;
-      //   case "1.0":
-      //   default:
-      //     }
       return this.question.id;
     },
     question_text() {

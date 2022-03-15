@@ -31,7 +31,6 @@ export default {
 
   methods: {
     search(value) {
-      console.log("hmm");
       findString(value || this.text_search);
     },
   },

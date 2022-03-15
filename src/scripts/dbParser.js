@@ -35,4 +35,4 @@ qs_db.forEach((res, index) => {
   ]
   list[`item_${index}`] = { title: q, answers, id: index }
 })
-console.log(list)
+// console.log(list)

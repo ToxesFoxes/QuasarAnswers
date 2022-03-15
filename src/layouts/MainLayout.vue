@@ -11,7 +11,7 @@
           @click="toggleLeftDrawer"
         />
 
-        <q-toolbar-title> {{ title }} <sub> 192.168.234.22:8080</sub> </q-toolbar-title>
+        <q-toolbar-title> {{ title }} </q-toolbar-title>
         <div>Quasar v{{ $q.version }}</div>
       </q-toolbar>
     </q-header>
@@ -58,7 +58,6 @@ export default {
 
   methods: {
     search(value) {
-      console.log("hmm");
       findString(value || this.text_search);
     },
     toggleLeftDrawer() {

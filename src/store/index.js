@@ -1,7 +1,10 @@
 import { store } from 'quasar/wrappers'
 import { createStore } from 'vuex'
+import createPersistedState from "vuex-persistedstate";
 
 import example from './module-example'
+import GlobalData from './global'
+import testing from './testing'
 
 /*
  * If not building with SSR mode, you can
@@ -15,9 +18,11 @@ import example from './module-example'
 export default store(function (/* { ssrContext } */) {
   const Store = createStore({
     modules: {
-      example
+      example,
+      global: GlobalData,
+      testing
     },
-
+    plugins: [createPersistedState()],
     // enable strict mode (adds overhead!)
     // for dev mode and --debug builds only
     strict: process.env.DEBUGGING
